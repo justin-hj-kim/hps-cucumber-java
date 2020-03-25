@@ -1,6 +1,6 @@
 # hps-cucumber-java
 
-[![Build Status](https://travis-ci.org/hiptest/hps-cucumber-java.svg?branch=master)](https://travis-ci.org/hiptest/hps-cucumber-java)
+[![Build Status](https://travis-ci.org/justin-hj-kim/hps-cucumber-java.svg?branch=master)](https://travis-ci.org/justin-hj-kim/hps-cucumber-java)
 
 Hiptest publisher samples with Cucumber/Java
 
@@ -28,9 +28,6 @@ The tests are generated in [``src/main/test/java/com/coffeemachine``](https://gi
 
 Run tests
 ---------
-
-[![Build Status](https://travis-ci.org/justin-hj-kim/hps-cucumber-java.svg?branch=master)](https://travis-ci.org/justin-hj-kim/hps-cucumber-java)
-
 
 To build the project and run the tests, use the following command:
 
