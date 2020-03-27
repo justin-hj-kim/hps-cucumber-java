@@ -5,5 +5,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-public class CoffeeMachineTest {format = {"pretty", "html:target/Destination", "json:report/cucumber.json"}
+@CucumberOptions(
+        format = {"pretty", "html:target/Destination", "json:report/cucumber.json"})
+public class CoffeeMachineTest {
 }
